@@ -1,0 +1,85 @@
+[
+  {
+    "q_id": 1,
+    "question": "What is the maximum home office setup stipend, and within how many days of joining must receipts be submitted?",
+    "min_distance": 0.2147,
+    "latency_ms": 3475.6,
+    "answer": "The maximum home office setup stipend is up to Rs. 15,000, and GST tax invoices (receipts) must be uploaded to the HR portal within 60 days of the employee's joining date [Page 1].",
+    "cited_pages": [
+      1
+    ],
+    "is_grounded": true
+  },
+  {
+    "q_id": 2,
+    "question": "When is an employee required to provide a doctor's medical certificate for sick leave?",
+    "min_distance": 0.2396,
+    "latency_ms": 29062.1,
+    "answer": "An employee is required to provide a doctor's medical certificate for sick leave only if the sick leave exceeds 3 consecutive working days [Page 2].",
+    "cited_pages": [
+      2
+    ],
+    "is_grounded": true
+  },
+  {
+    "q_id": 3,
+    "question": "What is the daily meal reimbursement cap during client travel, and what items are strictly excluded?",
+    "min_distance": 0.2058,
+    "latency_ms": 2867.8,
+    "answer": "During approved client travel, meal expenses are reimbursed up to a maximum of Rs. 1,200 per day [Page 3]. Alcohol and tobacco purchases are strictly excluded from reimbursement under all circumstances [Page 3].",
+    "cited_pages": [
+      3
+    ],
+    "is_grounded": true
+  },
+  {
+    "q_id": 4,
+    "question": "How many unused annual paid leave days can carry over to the next year, and what happens to any extra days?",
+    "min_distance": 0.2848,
+    "latency_ms": 3891.1,
+    "answer": "Up to 6 unused annual leave days may carry over into the next calendar year [Page 2]. Any remaining balance above 6 days expires on December 31 [Page 2].",
+    "cited_pages": [
+      2
+    ],
+    "is_grounded": true
+  },
+  {
+    "q_id": 5,
+    "question": "If an employee buys a monitor and also claims home broadband, what are the reimbursement caps and submission timelines for each?",
+    "min_distance": 0.2679,
+    "latency_ms": 6459.3,
+    "answer": "For an external monitor, the reimbursement cap is up to Rs. 15,000 under the one-time home office setup stipend, and GST tax invoices must be uploaded to the HR portal within 60 days of the employee's joining date [Page 1]. For home broadband, remote and hybrid staff can claim up to Rs. 1,000 per month, submitted once per quarter through the finance portal, and all expense claims must be filed within 30 calendar days of the transaction date [Page 3].",
+    "cited_pages": [
+      1,
+      3
+    ],
+    "is_grounded": true
+  },
+  {
+    "q_id": 6,
+    "question": "How many weeks of paid maternity or paternity leave do full-time employees receive?",
+    "min_distance": 0.3083,
+    "latency_ms": 5728.1,
+    "answer": "Insufficient context in the provided documents.",
+    "cited_pages": [],
+    "is_grounded": false
+  },
+  {
+    "q_id": 7,
+    "question": "What is the reimbursement limit for international business-class flight upgrades?",
+    "min_distance": 0.3458,
+    "latency_ms": 6860.9,
+    "answer": "Insufficient context in the provided documents.",
+    "cited_pages": [],
+    "is_grounded": false
+  },
+  {
+    "q_id": 8,
+    "question": "Are employees allowed to work remotely from outside India for up to 30 days per year?",
+    "min_distance": 0.3261,
+    "latency_ms": 6453.0,
+    "answer": "Insufficient context in the provided documents.",
+    "cited_pages": [],
+    "is_grounded": false
+  }
+]
